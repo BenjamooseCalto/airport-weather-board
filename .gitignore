@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/drivers/chromedriver.exe
+src/debug_data/leds.json
+src/debug_data/metars.json
